@@ -25,8 +25,7 @@
 The **pico-bridge** is a project that implements an embedded RPC for interface bridging utilizing the programmable I/O peripherals on the RP2040. 
 The application for the RP2040 is based on the RTIC Real Time Interrupt-Driven Concurrency environment for Rust. 
 ## [Man OverBoard Wearable Submersion Module](https://github.com/riverdale-soc/submersion-module)
-<p align="center">
-![image](https://github.com/DmitriLyalikov/DmitriLyalikov/assets/68623356/b6465de4-1d46-4054-b53e-6a83a42aaa0c)
-  </p>
+
 A custom coin cell battery powered ESP32 based PCB with NEO-7M GPS module that detects submersion and propagates GPS coordinates over ESP-NOW protocol. 
 Built using Altium, FreeRTOS, C, ESP-NOW and ESP-IDF
+![image](https://github.com/DmitriLyalikov/DmitriLyalikov/assets/68623356/0e5cd2af-3501-4acf-8db2-8a9c28c7c7ab)

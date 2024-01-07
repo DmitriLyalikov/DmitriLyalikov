@@ -49,3 +49,11 @@ pdt-regressor can currently predict Beta values given a drop profile feature set
 ### Image Model
 This model is also tested on a real droplet image profiles where the feature data sets are extracted from the output of the pdt-canny-edge-detector.
 profile data will be stored in the /data folder in .csv format.
+
+## [7x24 Exchange Design Competition Project for 2-phase Immersion Cooling of Data Center CPUs](https://github.com/DmitriLyalikov/7x24-App)
+This is the software application that is part of the 2022 design for Manhattan College in the 7x24 Senior Design Competition for processor cooling (heat dissipation) systems in the context of data centers. Traditional solutions to the problem of cooling involve heatsinks and fans. With the goal of increasing energy-efficiency and scalabilty, our design involved a two-phase immersive cooling system using a dielectric fluid with a much lower boiling point than water to significantly reduce heat dissipation costs.
+
+ESP32 based control system that controls pump for heat exchange using PID controller. Logs energy consumption, temperature, and pump usage to Amazon AWS IoT dashboard over secure MQTT protocol. 
+
+![image](https://github.com/DmitriLyalikov/DmitriLyalikov/assets/68623356/d436e835-ff11-4217-8906-5e8e068ef2e5)
+

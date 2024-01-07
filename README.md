@@ -23,4 +23,4 @@
 </p>
 
 The **pico-bridge** is a project that implements an embedded RPC for interface bridging utilizing the programmable I/O peripherals on the RP2040. 
-The application for the [`rp2040`][1] is based on the [`RTIC`][2] Real Time Interrupt-Driven Concurrency environment for [Rust][3].
+The application for the RP2040 is based on the RTIC Real Time Interrupt-Driven Concurrency environment for Rust. 

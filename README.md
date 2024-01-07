@@ -1,6 +1,4 @@
-<h1 align="center">Hi 👋, I'm Berkeli</h1>
-
-<img src="https://raw.githubusercontent.com/berkeli/berkeli/main/assets/header.jpg" align="center" alt="berkeli header image">
+<h1 align="center">Hi 👋, I'm Dmitri Lyalikov</h1>
 
 -------------------
 &emsp;

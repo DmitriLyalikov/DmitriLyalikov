@@ -57,3 +57,7 @@ ESP32 based control system that controls pump for heat exchange using PID contro
 
 ![image](https://github.com/DmitriLyalikov/DmitriLyalikov/assets/68623356/d436e835-ff11-4217-8906-5e8e068ef2e5)
 
+## [ESP32 Smart Clock](https://github.com/DmitriLyalikov/ESP32_Smart_Clock)
+This is my Embedded Systems Design Semester Project. I am using the ESP32 platform to make a LCD digital clock that displays local time synchronised from an NTP server and local/current weather forecasts from a JSON weather API endpoint over HTTP.
+![image](https://github.com/DmitriLyalikov/DmitriLyalikov/assets/68623356/fa7db1a2-cf01-4534-8d31-35d58b6aa56f)
+

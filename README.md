@@ -15,4 +15,12 @@
 &emsp;
 
 # Featured Projects
-Pico-Bridge
+  ## [Pico-Bridge](https://github.com/DmitriLyalikov/pico-bridge)
+<!-- Title -->
+<p align="center">
+  <img width=15% src="https://www.svgrepo.com/show/68860/microchip.svg">
+  <h1 align="center">pico-bridge</h1>
+</p>
+
+The **pico-bridge** is a project that implements an embedded RPC for interface bridging utilizing the programmable I/O peripherals on the RP2040. 
+The application for the [`rp2040`][1] is based on the [`RTIC`][2] Real Time Interrupt-Driven Concurrency environment for [Rust][3].

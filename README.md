@@ -8,10 +8,10 @@
 -------------------
 &emsp;
 
-- 🔭 I’m currently working on [Mentor Bot](https://mentor.love/) for CYF Products. 
+- 🔭 I’m currently working on [An Autonomous Search and Rescue Drone for Man Over-board Victims](https://github.com/riverdale-soc/uav-mobfinder). 
 - 📚 I'm also doing the [Immersive Engineering Course](https://github.com/CodeYourFuture/immersive-go-course), a program aimed at Site Reliability Engineering designed by CodeYourFuture in partnership with [Slack](https://slack.com/).
 
-- 🌱 I’m currently learning **Nueromorphic Computing, Spiking Neural Networks, Multi-Modal Imaging, Chisel, and ArduPilot **
+- 🌱 I’m currently learning **Nueromorphic Computing, Spiking Neural Networks, Multi-Modal Imaging, Chisel, and ArduPilot**
 
 - 💬 Ask me about **RISC-V, Rust, Computer Vision, Embedded Systems, Deep Learning, and PCB Design**
 

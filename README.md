@@ -24,6 +24,23 @@
 
 **The **pico-bridge** is a project that implements an embedded RPC for interface bridging utilizing the programmable I/O peripherals on the RP2040. 
 The application for the RP2040 is based on the RTIC Real Time Interrupt-Driven Concurrency environment for Rust.**
+
+## [VecBoost: A RVV 1.0 Library of Image Processing and Deep Learning operations to support RISC-V Domain Specific System-on-Chips](https://github.com/DmitriLyalikov/VecBoost)
+Developed as part of sponsored research project to identify and optimize memory and computation bottlenecks in heterogeneous SoC architectures executing deep learning inference.
+Using a Quad Core Rocket Chip with a loosely coupled Nvidia Deep Learning Acclerator running YOLOv3 on FireSim through Chipyard environment, it was found that approximately 50% of YOLOv3 execution time was spent on CPU operations as a fallback for functions and operators that the NVDLA/NVCC architecture did not support. 
+Using a vector accelerator and mapping these operations (FD-to-NCHW, NHCW-to-FD, INT8-FP32, FP32-INT8, Image load, store, memcpy) to the now ratified RVV 1.0 specification, I present VecBoost, a stable library of vectorized implementations that support preprocessing and fallback operations for a variety of deep learning models and architectures demonstrating 1x-63x speedup compared to a single core scalar large Rocket implementation. 
+* Feature Map to NCHW
+* Leaky Activation
+* Relu Activation
+* Scaling
+* Normalization
+* Fill
+* Gather
+* Conversion
+![image](https://github.com/DmitriLyalikov/DmitriLyalikov/assets/68623356/0939cac6-a4b6-45a8-ba66-198c56f50116)
+![image](https://github.com/DmitriLyalikov/DmitriLyalikov/assets/68623356/026e6211-1e7d-47d4-a84f-dc1855b59aec)
+
+
 ## [Man OverBoard Wearable Submersion Module](https://github.com/riverdale-soc/submersion-module)
 
 **A custom coin cell battery powered ESP32 based PCB with NEO-7M GPS module that detects submersion and propagates GPS coordinates over ESP-NOW protocol. 
@@ -60,4 +77,6 @@ ESP32 based control system that controls pump for heat exchange using PID contro
 ## [ESP32 Smart Clock](https://github.com/DmitriLyalikov/ESP32_Smart_Clock)
 This is my Embedded Systems Design Semester Project. I am using the ESP32 platform to make a LCD digital clock that displays local time synchronised from an NTP server and local/current weather forecasts from a JSON weather API endpoint over HTTP.
 ![image](https://github.com/DmitriLyalikov/DmitriLyalikov/assets/68623356/fa7db1a2-cf01-4534-8d31-35d58b6aa56f)
+
+
 

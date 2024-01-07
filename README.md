@@ -53,17 +53,15 @@
 -------------------
 ### Programming languages:
 &emsp;
-![Rust](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![C](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
-![RISC-V Assembly](https://img.shields.io/badge/-GO-000?&logo=Go)
-![Verilog](https://img.shields.io/badge/-GraphQL-000?&logo=GraphQL)
-![Chisel](https://img.shields.io/badge/-HCL-000?&logo=HCL)
-![C++](https://img.shields.io/badge/-Bash-000?&logo=GNU-Bash)
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![LabVIEW](https://img.shields.io/badge/-APEX-000?&logo=Salesforce)
-![LWC](https://img.shields.io/badge/-LWC-000?&logo=Salesforce)
-![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
-![PineScript](https://img.shields.io/badge/-PineScript-000?&logo=TradingView)
+* Rust
+* C
+* RISC-V Assembly
+* Verilog
+* Chisel
+* C++
+* Python
+* LabVIEW
+
 ### Embedded Systems:
 &emsp;
 ![PCB Design](https://img.shields.io/badge/-React-000?&logo=React)

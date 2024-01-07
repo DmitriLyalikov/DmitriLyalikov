@@ -67,7 +67,7 @@
 ![PCB Design](https://img.shields.io/badge/-React-000?&logo=React)
 ![ARM Cortex-M Series](https://img.shields.io/badge/-Redux-000?&logo=Redux)
 ![RISC-V](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
-![Embedded Linux](https://img.shields.io/badge/-Material--UI-000?&logo=Material-UI)
+![Embedded Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![FreeRTOS](https://img.shields.io/badge/-Chakra%20UI-000?&logo=Chakra-UI)
 ![Bare-Metal Programming](https://img.shields.io/badge/-SCSS-000?&logo=Sass)
 ![Xilinx FPGAs](https://img.shields.io/badge/-CSS-000?&logo=CSS3)

@@ -14,5 +14,5 @@
 
 &emsp;
 
-Featured Projects
+## Featured Projects
 Pico-Bridge

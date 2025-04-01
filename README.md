@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Dmitri Lyalikov</h1>
+<h1 align="center">Hi, I'm Dmitri Lyalikov</h1>
 
 -------------------
 &emsp;
-<h3 align="left">Hi 👋, I'm Dmitri Lyalikov, Silicon R&D/Validation Intern and Computer Engineering Student based in New York.</h3>
+<h3 align="left">Hi, I'm Dmitri Lyalikov, Neuromorphic ASIC Architect and Cofounder at eXistential-AI. I am also a graduate student and researcher at NYU. My work is very interdisciplinary as I believe hard problems in engineering require soluions across the entire technology stack, and I find myself working on projects bridging between IC design, deep learning, signal processing, and embedded hardware and software design.   </h3>
 &emsp;
 
 -------------------
@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [An Autonomous Search and Rescue Drone for Man Over-board Victims](https://github.com/riverdale-soc/uav-mobfinder). 
 - 🌱 I’m currently learning **Nueromorphic Computing, Spiking Neural Networks, Multi-Modal Imaging, Chisel, and ArduPilot**
-- 💬 Ask me about **RISC-V, Rust, Computer Vision, Embedded Systems, Deep Learning, and PCB Design**
+- 💬 Ask me about ** Neuromorpic Computing, Brain Machine Interfaces, RISC-V, Rust, Computer Vision, Embedded Systems, Deep Learning, and PCB Design**
 
 &emsp;
 

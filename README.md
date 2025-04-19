@@ -2,7 +2,7 @@
 
 -------------------
 &emsp;
-<h3 align="left">Hi, I'm Dmitri Lyalikov, Neuromorphic ASIC Architect and Cofounder at eXistential-AI. I am also a graduate student and researcher at NYU. My work is very interdisciplinary as I believe hard problems in engineering require solutions across the entire technology stack, and I find myself working on projects bridging between IC design, deep learning, signal processing, and embedded hardware and software design.   </h3>
+<h3 align="left">Hi, I'm Dmitri Lyalikov, CTO and Cofounder at eXistential-AI. I am also a graduate student and researcher at NYU. My work is very interdisciplinary as I believe hard problems in engineering require solutions across the entire technology stack, and I find myself working on projects bridging between IC design, deep learning, signal processing, and embedded hardware and software design.   </h3>
 &emsp;
 
 -------------------
